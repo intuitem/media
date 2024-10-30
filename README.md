@@ -1,3 +1,3 @@
 # media
 
-<video src='#01 decoupling.mov' width=180/></video>
+<video src='https://github.com/intuitem/media/raw/refs/heads/main/%2301%20decoupling.mov' width=180/></video>
