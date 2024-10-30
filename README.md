@@ -1,3 +1,3 @@
 # media
 
-https://github.com/intuitem/media/raw/refs/heads/main/01_decoupling.mov
+<video src="01_decoupling.mp4"></video>
